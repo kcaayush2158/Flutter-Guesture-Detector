@@ -1,4 +1,4 @@
-# guesturedetector
+# Guesture Detector Example
 
 A new Flutter project.
 
